@@ -1,0 +1,11 @@
+test
+
+git status
+
+git add .
+    . = all
+
+git commit -m "first commit"
+
+git push
+    name, token
